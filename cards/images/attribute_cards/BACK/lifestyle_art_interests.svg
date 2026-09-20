@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="750" height="1050" viewBox="0 0 750 1050">
+  <rect x="8" y="8" width="734" height="1034" rx="40" fill="white" stroke="#7f7f7f" stroke-width="8"/>
+  <text x="375" y="300" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="68" font-weight="700" fill="black">Art interests</text>
+  <text x="375" y="370" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="40" font-weight="400" fill="#333">as labels</text>
+  <line x1="112" y1="440" x2="637" y2="440" stroke="#7f7f7f" stroke-width="3"/>
+  <text x="375" y="510" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="#7f7f7f">ANSWER</text>
+  <text x="290" y="585" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="black">Arithmetic:</text>
+  <text x="310" y="585" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="34" font-weight="400" fill="black">Qualitative</text>
+  <text x="290" y="647" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="black">Cat / Num:</text>
+  <text x="310" y="647" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="34" font-weight="400" fill="black">Categorical</text>
+  <text x="290" y="709" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="black">Count:</text>
+  <text x="310" y="709" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="34" font-weight="400" fill="black">Discrete</text>
+  <text x="290" y="771" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="black">Operations:</text>
+  <text x="310" y="771" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="34" font-weight="400" fill="black">Nominal</text>
+</svg>

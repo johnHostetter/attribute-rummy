@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="750" height="1050" viewBox="0 0 750 1050">
+  <rect x="8" y="8"
+        width="734" height="1034"
+        rx="40"
+        fill="white"
+        stroke="#ff7f0e"
+        stroke-width="8"/>
+
+  <text x="375" y="495"
+        text-anchor="middle"
+        font-family="Helvetica, Arial, sans-serif"
+        font-size="96"
+        font-weight="700"
+        fill="black">
+    INTERVAL
+  </text>
+
+  <text x="375" y="565"
+        text-anchor="middle"
+        font-family="Helvetica, Arial, sans-serif"
+        font-size="40"
+        fill="#333">
+    meaningful differences
+  </text>
+</svg>

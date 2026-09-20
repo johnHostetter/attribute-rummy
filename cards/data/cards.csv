@@ -1,0 +1,12 @@
+deck,label,subtitle,border_color
+datatype,DISCRETE,countable values,#1f77b4
+datatype,CONTINUOUS,real-valued scale,#1f77b4
+datatype,BINARY,two possible values,#1f77b4
+scale,NOMINAL,no inherent order,#ff7f0e
+scale,ORDINAL,ordered categories,#ff7f0e
+scale,INTERVAL,meaningful differences,#ff7f0e
+scale,RATIO,true zero exists,#ff7f0e
+nature,NUMERIC,numbers with meaning,#2ca02c
+nature,CATEGORICAL,labels or groups,#2ca02c
+description,QUALITATIVE,descriptive,#d62728
+description,QUANTITATIVE,meaningful arithmetic,#d62728

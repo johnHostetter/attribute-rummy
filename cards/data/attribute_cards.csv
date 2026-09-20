@@ -1,0 +1,111 @@
+deck,label,subtitle,border_color,arithmetic,catnum,count,operations
+demographics,Age,in years,#7f7f7f,Quantitative,Numeric,Continuous,Ratio
+demographics,Height,in centimeters,#7f7f7f,Quantitative,Numeric,Continuous,Ratio
+demographics,Weight,in kilograms,#7f7f7f,Quantitative,Numeric,Continuous,Ratio
+demographics,Siblings,count,#7f7f7f,Quantitative,Numeric,Discrete,Ratio
+demographics,Eye color,"(e.g., blue, green)",#7f7f7f,Qualitative,Categorical,Discrete,Nominal
+demographics,Hair color,"(e.g., brunette, blonde)",#7f7f7f,Qualitative,Categorical,Discrete,Nominal
+demographics,Country of origin,,#7f7f7f,Qualitative,Categorical,Discrete,Nominal
+demographics,City,,#7f7f7f,Qualitative,Categorical,Discrete,Nominal
+demographics,Zip code,,#7f7f7f,Qualitative,Numeric-coded Categorical,Discrete,Nominal
+demographics,Marital status,,#7f7f7f,Qualitative,Categorical,Discrete,Nominal
+demographics,Nationality,,#7f7f7f,Qualitative,Categorical,Discrete,Nominal
+demographics,Primary language,,#7f7f7f,Qualitative,Categorical,Discrete,Nominal
+demographics,Favorite color,,#7f7f7f,Qualitative,Categorical,Discrete,Nominal
+demographics,Ethnicity,,#7f7f7f,Qualitative,Categorical,Discrete,Nominal
+demographics,Race,,#7f7f7f,Qualitative,Categorical,Discrete,Nominal
+academic,Test score,in percentage (%),#7f7f7f,Quantitative,Numeric,Continuous,Ratio
+academic,GPA,,#7f7f7f,Quantitative,Numeric,Discrete,Interval
+academic,Courses,How many is a student enrolled in,#7f7f7f,Quantitative,Numeric,Discrete,Ratio
+academic,Studying,hours per week,#7f7f7f,Quantitative,Numeric,Continuous,Ratio
+academic,Favorite subject,,#7f7f7f,Qualitative,Categorical,Discrete,Nominal
+academic,Class rank,"(e.g., #1, #2)",#7f7f7f,Quantitative,Numeric-coded Categorical,Discrete,Ordinal
+academic,Participation,in whole points,#7f7f7f,Quantitative,Numeric,Discrete,Ratio
+academic,Extra credit,in whole points,#7f7f7f,Quantitative,Numeric,Discrete,Ratio
+academic,Graduation year,,#7f7f7f,Quantitative,Numeric,Discrete,Interval
+academic,Major,,#7f7f7f,Qualitative,Categorical,Discrete,Nominal
+academic,Minor,,#7f7f7f,Qualitative,Categorical,Discrete,Nominal
+academic,Probation status,,#7f7f7f,Qualitative,Categorical,Discrete,Ordinal
+academic,Absences,count,#7f7f7f,Quantitative,Numeric,Discrete,Ratio
+academic,Late assignments,count,#7f7f7f,Quantitative,Numeric,Discrete,Ratio
+academic,Letter grades,,#7f7f7f,Qualitative,Categorical,Discrete,Ordinal
+academic,Research,in days,#7f7f7f,Quantitative,Numeric,Continuous,Ratio
+health,Blood type,"(e.g., O-, AB+)",#7f7f7f,Qualitative,Categorical,Discrete,Nominal
+health,Steps,per day,#7f7f7f,Quantitative,Numeric,Discrete,Ratio
+health,Blood pressure,in millimeters of mercury,#7f7f7f,Quantitative,Numeric,Continuous,Ratio
+health,Heart rate,in beats per minute,#7f7f7f,Quantitative,Numeric,Continuous,Ratio
+health,Sleep,in hours,#7f7f7f,Quantitative,Numeric,Continuous,Ratio
+health,Diet type,from multiple-choice survey,#7f7f7f,Qualitative,Categorical,Discrete,Nominal
+health,Exercise frequency,"(e.g., often, rarely)",#7f7f7f,Qualitative,Categorical,Discrete,Ordinal
+health,Smoking status,"(e.g., often, rarely)",#7f7f7f,Qualitative,Categorical,Discrete,Ordinal
+health,Alcohol consumption,"(e.g., often, rarely)",#7f7f7f,Qualitative,Categorical,Discrete,Ordinal
+health,BMI,,#7f7f7f,Quantitative,Numeric,Continuous,Ratio
+health,Cholesterol level,"(e.g., low, high)",#7f7f7f,Qualitative,Categorical,Discrete,Ordinal
+health,Vitamin intake,in milligrams,#7f7f7f,Quantitative,Numeric,Continuous,Ratio
+health,Water intake,in liters,#7f7f7f,Quantitative,Numeric,Continuous,Ratio
+health,Allergies,written via labels,#7f7f7f,Qualitative,Categorical,Discrete,Nominal
+health,Medical visits,count,#7f7f7f,Quantitative,Numeric,Discrete,Ratio
+health,Medication count,,#7f7f7f,Quantitative,Numeric,Discrete,Ratio
+survey,Satisfaction rating,from 1 star to 5 stars,#7f7f7f,Qualitative,Numeric-coded Categorical,Discrete,Ordinal
+survey,Likert Scale (1 to 7),where 1 & 7 are strongly disagree/agree,#7f7f7f,Qualitative,Numeric-coded Categorical,Discrete,Ordinal
+survey,Open-ended comment,,#7f7f7f,Qualitative,Neither Numeric nor Categorical,Discrete,Nominal
+survey,Favorite product,,#7f7f7f,Qualitative,Categorical,Discrete,Nominal
+survey,Recommend?,yes or no,#7f7f7f,Qualitative,Categorical,Binary,Ordinal
+survey,Happiness rating,from 1 to 10,#7f7f7f,Qualitative,Numeric-coded Categorical,Discrete,Ordinal
+survey,Stress level,from 1 to 10,#7f7f7f,Qualitative,Numeric-coded Categorical,Discrete,Ordinal
+survey,Motivation rating,from 1 to 10,#7f7f7f,Qualitative,Numeric-coded Categorical,Discrete,Ordinal
+survey,Work-life balance,"(e.g., depressed, miserable)",#7f7f7f,Qualitative,Categorical,Discrete,Ordinal
+survey,Ease of use,from 1 to 5,#7f7f7f,Qualitative,Numeric-coded Categorical,Discrete,Ordinal
+survey,Trust in brand,from 1 to 10,#7f7f7f,Qualitative,Numeric-coded Categorical,Discrete,Ordinal
+survey,Survey completion,in seconds,#7f7f7f,Quantitative,Numeric,Continuous,Ratio
+survey,Open-ended answer,,#7f7f7f,Qualitative,Neither Numeric nor Categorical,Discrete,Nominal
+employment,Employee ID,,#7f7f7f,Qualitative,Numeric-coded Categorical,Discrete,Nominal
+employment,Department,,#7f7f7f,Qualitative,Categorical,Discrete,Nominal
+employment,Salary,in dollars,#7f7f7f,Quantitative,Numeric,Continuous,Ratio
+employment,Work experience,in years,#7f7f7f,Quantitative,Numeric,Continuous,Ratio
+employment,Manager ID,,#7f7f7f,Qualitative,Numeric-coded Categorical,Discrete,Nominal
+employment,Job title,with ranking or hierarchy,#7f7f7f,Qualitative,Categorical,Discrete,Ordinal
+employment,Office location,,#7f7f7f,Qualitative,Categorical,Discrete,Nominal
+employment,Bonus received,in dollars,#7f7f7f,Quantitative,Numeric,Continuous,Ratio
+employment,Projects completed,count,#7f7f7f,Quantitative,Numeric,Discrete,Ratio
+employment,Promotion eligibility,yes or no,#7f7f7f,Qualitative,Categorical,Binary,Ordinal
+employment,Vacation days,,#7f7f7f,Quantitative,Numeric,Continuous,Ratio
+employment,Training hours,,#7f7f7f,Quantitative,Numeric,Continuous,Ratio
+employment,Job satisfaction,"(e.g., depressed, miserable)",#7f7f7f,Qualitative,Categorical,Discrete,Ordinal
+employment,Team size,in count of people,#7f7f7f,Quantitative,Numeric,Discrete,Ratio
+employment,Work hours,per week,#7f7f7f,Quantitative,Numeric,Continuous,Ratio
+finance,Monthly income,in dollars,#7f7f7f,Quantitative,Numeric,Continuous,Ratio
+finance,Savings,in dollars,#7f7f7f,Quantitative,Numeric,Continuous,Ratio
+finance,Credit score,,#7f7f7f,Quantitative,Numeric,Discrete,Interval
+finance,Owned credit cards,count,#7f7f7f,Quantitative,Numeric,Discrete,Ratio
+finance,Debt amount,in dollars,#7f7f7f,Quantitative,Numeric,Continuous,Ratio
+finance,Shares of a company,,#7f7f7f,Quantitative,Numeric,Continuous,Ratio
+finance,Retirement fund,in dollars,#7f7f7f,Quantitative,Numeric,Continuous,Ratio
+finance,Expenses per month,in dollars,#7f7f7f,Quantitative,Numeric,Continuous,Ratio
+finance,Loan amount,in dollars,#7f7f7f,Quantitative,Numeric,Continuous,Ratio
+finance,Mortgage status,"(e.g., approved, pending)",#7f7f7f,Qualitative,Categorical,Discrete,Ordinal
+finance,Insurance type,from multiple-choice survey,#7f7f7f,Qualitative,Categorical,Discrete,Nominal
+finance,Taxes paid,in dollars,#7f7f7f,Quantitative,Numeric,Continuous,Ratio
+finance,Charitable donations,in dollars,#7f7f7f,Quantitative,Numeric,Continuous,Ratio
+finance,Domestic stock held,in percentage (%),#7f7f7f,Quantitative,Numeric,Continuous,Ratio
+finance,Financial literacy,"(e.g., none, some)",#7f7f7f,Qualitative,Categorical,Discrete,Ordinal
+lifestyle,Favorite sport,from multiple-choice survey,#7f7f7f,Qualitative,Categorical,Discrete,Nominal
+lifestyle,Books read,since 2026,#7f7f7f,Quantitative,Numeric,Discrete,Ratio
+lifestyle,Music genre,,#7f7f7f,Qualitative,Categorical,Discrete,Nominal
+lifestyle,TV hours,per month,#7f7f7f,Quantitative,Numeric,Continuous,Ratio
+lifestyle,Exercise frequency,"(e.g., never, often)",#7f7f7f,Qualitative,Categorical,Discrete,Ordinal
+lifestyle,Hobbies count,,#7f7f7f,Quantitative,Numeric,Discrete,Ratio
+lifestyle,Travel frequency,"(e.g., never, often)",#7f7f7f,Qualitative,Categorical,Discrete,Ordinal
+lifestyle,Pet ownership,true or false,#7f7f7f,Qualitative,Categorical,Binary,Nominal
+lifestyle,Social media use,in minutes,#7f7f7f,Quantitative,Numeric,Continuous,Ratio
+lifestyle,Gaming,in hours,#7f7f7f,Quantitative,Numeric,Continuous,Ratio
+lifestyle,Cooking frequency,"(e.g., never, often)",#7f7f7f,Qualitative,Categorical,Discrete,Ordinal
+lifestyle,Volunteering,in days,#7f7f7f,Quantitative,Numeric,Continuous,Ratio
+lifestyle,Art interests,as labels,#7f7f7f,Qualitative,Categorical,Discrete,Nominal
+lifestyle,Outdoor activity,in minutes,#7f7f7f,Quantitative,Numeric,Continuous,Ratio
+lifestyle,Coffee intake,in milligrams,#7f7f7f,Quantitative,Numeric,Continuous,Ratio
+vehicles,Odometer,in miles,#7f7f7f,Quantitative,Numeric,Continuous,Ratio
+vehicles,Fuel remaining,in gallons,#7f7f7f,Quantitative,Numeric,Continuous,Ratio
+outdoors,Temperature (F),in Fahrenheit,#7f7f7f,Quantitative,Numeric,Continuous,Interval
+outdoors,Temperature (C),in Celsius,#7f7f7f,Quantitative,Numeric,Continuous,Interval
+outdoors,Temperature (K),in Kelvin,#7f7f7f,Quantitative,Numeric,Continuous,Ratio
